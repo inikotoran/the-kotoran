@@ -1,5 +1,5 @@
 ---
-title: Great coffee with a conscience
+title: Kruwreklutwekurr
 subtitle: Support sustainable farming while enjoying a cup
 image: img/20200830_172323.jpg
 blurb:
